@@ -7,7 +7,7 @@ A dashboard of complete sales and profit analysis on the basis of product catego
 Mike Goodman, the head of Product Management of a retail products company, is responsible for determining which products his company should continue to offer for sale and which products should be discontinued from the company’s product catalogue. 
 
 # Domain: Ecommerce
-Dataset Description: We will be using Superstore Dataset which covers Orders data from 2014 - 2017.
+Dataset Description: Superstore Dataset which covers Orders data from 2014 - 2017.
 
 # A Tableau desktop file consist of:
 1. The Superstore dataset is cleaned it in tableau prep then dump into sql server and load it into tableau desktop.
