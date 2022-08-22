@@ -31,3 +31,12 @@ Dataset Description: Superstore Dataset which covers Orders data from 2014 - 201
 # Tools Used: 
 1.	Tableau prep builder
 2.	Tableau desktop
+
+# Glimpse of Dashboard
+![Screenshot (166)](https://user-images.githubusercontent.com/65829391/185855956-efc8318e-774d-4684-a157-667ea96b9b28.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/65829391/185855990-ae69b7ae-fbce-4835-b794-4ce700b3af28.png)
+![Screenshot (168)](https://user-images.githubusercontent.com/65829391/185856021-6ddee5bd-a478-4263-92ab-252a1dbbadbe.png)
+![Screenshot (169)](https://user-images.githubusercontent.com/65829391/185856064-f27a55e9-1963-4579-a6f1-5f77c4878b9e.png)
+![Screenshot (170)](https://user-images.githubusercontent.com/65829391/185856084-b7f0c1a9-ef0e-4589-87a7-ac2a556fcdeb.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/65829391/185856126-b2e76b32-5d10-4896-beb8-42dc0572e37d.png)
+
